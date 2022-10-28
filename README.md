@@ -102,7 +102,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/microsoft/arcade-tutorial-extensions/carnival** and import
+* search for **https://github.com/microsoft/arcade-carnival** and import
 
 # Contributing
 
@@ -125,7 +125,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/kiki-lee/carnival/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/microsoft/arcade-carnival/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
