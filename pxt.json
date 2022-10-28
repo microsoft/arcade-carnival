@@ -1,0 +1,43 @@
+{
+    "name": "carnival",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.3.1"
+    },
+    "files": [
+        "README.md",
+        "assets.json",
+        "carnival.ts",
+        "docs/add_label_to.md",
+        "docs/on_game_over_expanded.md",
+        "docs/start_countdown_game.md",
+        "docs/variable_power.md",
+        "docs/control_ball_keys.md",
+        "docs/stop_it.md",
+        "docs/throw_it.md",
+        "docs/set_trace_iter.md",
+        "docs/set_trace_multi.md",
+        "docs/spritescreateprojectileball.md",
+        "docs/on_game_over_custom_expanded.md",
+        "docs/throw_create.md",
+        "docs/create_projectile_ball.md",
+        "docs/get_timer.md",
+        "docs/show_timer.md",
+        "docs/start_count_up_game.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.10.36",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
