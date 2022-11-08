@@ -1004,6 +1004,7 @@ class Ball extends sprites.ExtendableSprite {
             if (this.controlKeys) {
                 this.angle -= controller.dx() * this.angleRate / 2;
                 this.pow -= controller.dy() * this.powerRate / 2;
+                this.updateCrosshair();
             }
         })
     }
