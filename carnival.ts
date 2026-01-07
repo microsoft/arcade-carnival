@@ -16,7 +16,7 @@ namespace SpriteKind {
 /**
 * An extension full of carnival goodness
 */
-//% color=#b70082 icon="\uf3ff"
+//% color=#b70082 icon="\uf091"
 //% groups='["Ball", "Timer", "Countdown", "Game", "Scene"]'
 namespace carnival {
 
